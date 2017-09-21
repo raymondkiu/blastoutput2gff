@@ -1,6 +1,6 @@
 # Convert BLAST output to gff format
 ## Introduction
-* This is a simple Shell script to convert BLAST output format 6 (tabular with no headings) into gff format (containes mainly the start and stop positions) for donwstream sequence extraction using bedtools.
+* This is a simple Shell script to convert BLAST output format 6 (tabular form with no headings) into gff format (containes mainly the start and stop positions) for donwstream sequence extraction using bedtools.
 
 ## Usage 
 ```
