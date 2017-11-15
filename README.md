@@ -7,4 +7,4 @@
 % ./blastoutput2gff.sh FILENAME
 ```
 * FILENAME must be in BLAST output format 6 with no headings (12 columns in total). Please refer to this in case you are unsure of the formats: https://www.ncbi.nlm.nih.gov/books/NBK279675/
-* The gff outputs will be named as BLASTOUTPUT.gff by default.
+* The gff outputs will be named as FILENAME.gff by default.
